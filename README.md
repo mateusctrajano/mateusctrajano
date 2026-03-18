@@ -7,7 +7,7 @@ com foco em **back end**, **dados** e **inteligência artificial**.
 
 ## Sobre
 
-Profissional com 8 anos de experiência na área jurídica — atuando com Direito Médico, Compliance e análise contratual em ambientes corporativos complexos, assessorando hospitais, operadoras de saúde e pacientes.
+Profissional com 8 anos de experiência na área jurídica, atuando com Direito Médico, Compliance e análise contratual em ambientes corporativos complexos, assessorando hospitais, operadoras de saúde e pacientes.
 
 Essa trajetória me formou com algo que vai além do código: visão analítica apurada, capacidade de estruturar problemas e comunicar soluções com clareza. São habilidades que aplico diretamente no desenvolvimento de soluções tecnológicas orientadas a negócios.
 
